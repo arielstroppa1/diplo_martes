@@ -1,0 +1,20 @@
+body{
+    background-color: lightslategray;
+}
+h1{
+    margin-left: 30%; color: crimson;
+}
+img{
+    margin-left: 35%;
+    box-shadow: 10px -10px 5px black
+}
+ul{
+    font-family: cursive;
+    
+}
+h2{
+    text-align: center;
+    background-color: gray;
+    color: blue;
+    
+}
